@@ -1,4 +1,4 @@
 textbooks/**/*.pdf
 MOOC/slides/
-MOOC/notes/**/*.pdf
+# MOOC/notes/**/*.pdf
 .DS_Store
