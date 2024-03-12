@@ -2,3 +2,9 @@ textbooks/**/*.pdf
 MOOC/slides/
 # MOOC/notes/**/*.pdf
 .DS_Store
+**/体系读书报告-from_zzy.pdf
+**/*.aux
+**/*.bbl
+**/*.log
+**/*.gz
+**/*.toc
