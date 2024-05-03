@@ -1,0 +1,137 @@
+@media screen and (max-width: 1500px) {
+  #student-certificate .student-certificate-list li {
+    width: 31%;
+  }
+}
+@media screen and (min-width: 1500px) {
+  #student-certificate-card:nth-of-type(4n),
+  .student-note-card:nth-of-type(4n),
+  #student-course-card:nth-of-type(4n) {
+    margin-right: 0px;
+  }
+  #student-collect-course .collect-container .collect-list .collect-item {
+    width: 23.5%;
+  }
+  #student-collect-course .collect-container .collect-list .collect-item:nth-of-type(4n) {
+    margin-right: 0;
+  }
+  #student-course-card,
+  #student-certificate-card,
+  .student-note-card {
+    width: 24%;
+    margin-right: 1.1%;
+  }
+  .student-note-card {
+    margin-right: 1.32%;
+  }
+  #student-collect-course .follow-item:nth-of-type(4n) {
+    margin-right: 0;
+  }
+  #student-collect-course .follow-item {
+    width: 19%;
+    margin: 0.55% 0.55%;
+  }
+  .student-video-info {
+    width: 86%;
+  }
+  .page-main {
+    width: 86% !important;
+    margin: 0 auto;
+  }
+  .student-video-container .breadcrumb {
+    width: 86%;
+    margin: 0 auto;
+  }
+  .student-video-container .student-content-btm {
+    padding: 20px 34px;
+    margin: 20px;
+    background-color: #fff;
+  }
+  .student-content-btm {
+    width: 86%;
+  }
+
+  .student-video-container .student-content-btm .tabs-content {
+    width: 86%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1499px) {
+  #student-collect-course .collect-container .collect-list .collect-item {
+    margin-right: 1.664%;
+  }
+  #student-collect-course .collect-container .collect-list .collect-item:nth-of-type(3n) {
+    margin-right: 0;
+  }
+  #student-certificate-card:nth-of-type(3n),
+  .student-note-card:nth-of-type(3n),
+  #student-course-card:nth-of-type(3n) {
+    margin-right: 0px;
+  }
+  #student-certificate-card {
+    margin-right: 2.795%;
+  }
+  #student-course-card {
+    margin-right: 0.6185%;
+  }
+  #student-course-card .card-num {
+    font-size: 12px;
+  }
+  #student-course-card .card-content .card-num .person-num {
+    margin-right: 10px;
+  }
+  .student-note-card .note-name .name {
+    width: 45%;
+  }
+  .notes-editor-box .ck.ck-editor__main > .ck-editor__editable,
+  .oper-content-gray .ck.ck-editor__main > .ck-editor__editable {
+    height: 100px;
+  }
+  .student-video-center .oper-wrap.is-full {
+    top: calc(100% - 600px);
+  }
+}
+
+@media screen and (min-width: 960px) and (max-width: 1199px) {
+  .student-note-card .note-name {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  #student-course-card .card-num {
+    font-size: 12px;
+  }
+  #student-course-card .card-content .card-num .person-num {
+    margin-right: 10px;
+  }
+  #student-course-card .card-content {
+    padding: 12px 12px;
+  }
+  .notes-editor-box .ck.ck-editor__main > .ck-editor__editable,
+  .oper-content-gray .ck.ck-editor__main > .ck-editor__editable {
+    height: 3rem;
+  }
+  .student-video-center .oper-wrap.is-full {
+    top: calc(100% - 500px);
+  }
+  .student-video-center .is-full .ck.ck-editor__main > .ck-editor__editable {
+    height: 60px;
+  }
+}
+
+@media screen and (max-width: 959px) {
+}
+
+@media screen and (max-height: 949px) and (min-width: 1500px) {
+}
+
+@media screen and (max-height: 749px) and (min-width: 1500px) {
+}
+
+@media screen and (max-height: 949px) and (min-width: 1200px) and (max-width: 1499px) {
+}
+
+@media screen and (max-height: 749px) and (min-width: 1200px) and (max-width: 1499px) {
+}
