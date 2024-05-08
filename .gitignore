@@ -9,3 +9,4 @@ MOOC/notes/*.pdf
 **/*.gz
 **/*.toc
 **/*.zip
+slides/*.pdf
