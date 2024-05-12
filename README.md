@@ -7,5 +7,8 @@
 1. 课程课件
 2. 课程笔记
 3. 课程作业
-4. 课程对应的MOOC的作业和笔记
+4. 课程对应的 MOOC 的作业和笔记
 
+## Credit
+
+[从 01 开始 / 计算机组成原理](https://www.peterjxl.com/ComputerOrganization/PekingUniversity/)
