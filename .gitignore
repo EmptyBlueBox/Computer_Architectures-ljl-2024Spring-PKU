@@ -10,3 +10,5 @@ MOOC/notes/*.pdf
 **/*.toc
 **/*.zip
 slides/*.pdf
+*.doc
+*.docx
