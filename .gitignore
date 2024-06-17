@@ -1,4 +1,5 @@
 *.pdf
+slides
 **/.DS_Store
 **/体系读书报告-from_zzy.pdf
 **/*.aux
