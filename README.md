@@ -9,6 +9,8 @@
 3. 课程作业
 4. 课程对应的 MOOC 的作业和笔记
 
+笔记内容可能存在一些错误，请保持审慎的态度进行阅读。如果你发现了错误，也欢迎提出 issue 或者 PR。
+
 ## Credit
 
 [从 01 开始 / 计算机组成原理](https://www.peterjxl.com/ComputerOrganization/PekingUniversity/)
