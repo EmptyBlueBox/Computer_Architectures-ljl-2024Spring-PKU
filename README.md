@@ -1,4 +1,4 @@
-# Computer_Architectures-ljl-2024Spring-PKU
+# Computer Architectures Repository
 
 ## Intro
 
@@ -14,3 +14,5 @@
 ## Credit
 
 [从 01 开始 / 计算机组成原理](https://www.peterjxl.com/ComputerOrganization/PekingUniversity/)
+
+Welcome to my [Course Review](https://www.lyt0112.com/blog/course_review-zh) !
